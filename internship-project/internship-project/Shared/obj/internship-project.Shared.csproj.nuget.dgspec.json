@@ -1,0 +1,62 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Anil\\Documents\\GitHub\\internship-project\\internship-project\\internship-project\\Shared\\internship-project.Shared.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Anil\\Documents\\GitHub\\internship-project\\internship-project\\internship-project\\Shared\\internship-project.Shared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Anil\\Documents\\GitHub\\internship-project\\internship-project\\internship-project\\Shared\\internship-project.Shared.csproj",
+        "projectName": "internship-project.Shared",
+        "projectPath": "C:\\Users\\Anil\\Documents\\GitHub\\internship-project\\internship-project\\internship-project\\Shared\\internship-project.Shared.csproj",
+        "packagesPath": "C:\\Users\\Anil\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Anil\\Documents\\GitHub\\internship-project\\internship-project\\internship-project\\Shared\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Anil\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
