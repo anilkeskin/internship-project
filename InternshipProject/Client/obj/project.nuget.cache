@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "R3wlrPJBs2r3x6GYZmRzmn52mPKld/X8kdZPUbrm6IOUqqF09YcY55J1eVYVqdr0nxBNxza6NXgEPb6ptW4GWw==",
+  "dgSpecHash": "Sr/+ZK5kgmkDwmRQP+wGhcJGyPfXniViYU5tS4V3K00TZmBHnKbKNwgTnqFs/c4vC8ENUlsvQXDKk12WaLbrlA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Anil\\Documents\\GitHub\\InternshipProject\\InternshipProject\\Client\\InternshipProject.Client.csproj",
+  "projectFilePath": "C:\\Users\\Anil\\Documents\\GitHub\\internship-project\\InternshipProject\\Client\\InternshipProject.Client.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Anil\\.nuget\\packages\\blazored.modal\\6.0.1\\blazored.modal.6.0.1.nupkg.sha512",
     "C:\\Users\\Anil\\.nuget\\packages\\microsoft.aspnetcore.authorization\\3.1.6\\microsoft.aspnetcore.authorization.3.1.6.nupkg.sha512",

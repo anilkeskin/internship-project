@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Anil\\Documents\\GitHub\\InternshipProject\\InternshipProject\\Shared\\InternshipProject.Shared.csproj",
+      "projectUniqueName": "C:\\Users\\Anil\\Documents\\GitHub\\internship-project\\InternshipProject\\Shared\\InternshipProject.Shared.csproj",
       "projectName": "InternshipProject.Shared",
-      "projectPath": "C:\\Users\\Anil\\Documents\\GitHub\\InternshipProject\\InternshipProject\\Shared\\InternshipProject.Shared.csproj",
+      "projectPath": "C:\\Users\\Anil\\Documents\\GitHub\\internship-project\\InternshipProject\\Shared\\InternshipProject.Shared.csproj",
       "packagesPath": "C:\\Users\\Anil\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Anil\\Documents\\GitHub\\InternshipProject\\InternshipProject\\Shared\\obj\\",
+      "outputPath": "C:\\Users\\Anil\\Documents\\GitHub\\internship-project\\InternshipProject\\Shared\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Anil\\AppData\\Roaming\\NuGet\\NuGet.Config",

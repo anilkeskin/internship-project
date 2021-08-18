@@ -1003,11 +1003,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Anil\\Documents\\GitHub\\InternshipProject\\InternshipProject\\Server\\InternshipProject.Server.csproj",
+      "projectUniqueName": "C:\\Users\\Anil\\Documents\\GitHub\\internship-project\\InternshipProject\\Server\\InternshipProject.Server.csproj",
       "projectName": "InternshipProject.Server",
-      "projectPath": "C:\\Users\\Anil\\Documents\\GitHub\\InternshipProject\\InternshipProject\\Server\\InternshipProject.Server.csproj",
+      "projectPath": "C:\\Users\\Anil\\Documents\\GitHub\\internship-project\\InternshipProject\\Server\\InternshipProject.Server.csproj",
       "packagesPath": "C:\\Users\\Anil\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Anil\\Documents\\GitHub\\InternshipProject\\InternshipProject\\Server\\obj\\",
+      "outputPath": "C:\\Users\\Anil\\Documents\\GitHub\\internship-project\\InternshipProject\\Server\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Anil\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1024,11 +1024,11 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\Anil\\Documents\\GitHub\\InternshipProject\\InternshipProject\\Client\\InternshipProject.Client.csproj": {
-              "projectPath": "C:\\Users\\Anil\\Documents\\GitHub\\InternshipProject\\InternshipProject\\Client\\InternshipProject.Client.csproj"
+            "C:\\Users\\Anil\\Documents\\GitHub\\internship-project\\InternshipProject\\Client\\InternshipProject.Client.csproj": {
+              "projectPath": "C:\\Users\\Anil\\Documents\\GitHub\\internship-project\\InternshipProject\\Client\\InternshipProject.Client.csproj"
             },
-            "C:\\Users\\Anil\\Documents\\GitHub\\InternshipProject\\InternshipProject\\Shared\\InternshipProject.Shared.csproj": {
-              "projectPath": "C:\\Users\\Anil\\Documents\\GitHub\\InternshipProject\\InternshipProject\\Shared\\InternshipProject.Shared.csproj"
+            "C:\\Users\\Anil\\Documents\\GitHub\\internship-project\\InternshipProject\\Shared\\InternshipProject.Shared.csproj": {
+              "projectPath": "C:\\Users\\Anil\\Documents\\GitHub\\internship-project\\InternshipProject\\Shared\\InternshipProject.Shared.csproj"
             }
           }
         }
