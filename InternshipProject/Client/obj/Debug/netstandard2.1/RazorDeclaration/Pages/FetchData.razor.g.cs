@@ -111,6 +111,13 @@ using InternshipProject.Client.Utils;
 #line hidden
 #nullable disable
 #nullable restore
+#line 16 "C:\Users\Anil\Documents\GitHub\internship-project\InternshipProject\Client\_Imports.razor"
+using DevExpress.Blazor.AnchorUtils;
+
+#line default
+#line hidden
+#nullable disable
+#nullable restore
 #line 2 "C:\Users\Anil\Documents\GitHub\internship-project\InternshipProject\Client\Pages\FetchData.razor"
 using InternshipProject.Shared;
 

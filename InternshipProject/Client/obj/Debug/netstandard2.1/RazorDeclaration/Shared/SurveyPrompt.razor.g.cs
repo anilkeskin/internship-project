@@ -110,6 +110,13 @@ using InternshipProject.Client.Utils;
 #line default
 #line hidden
 #nullable disable
+#nullable restore
+#line 16 "C:\Users\Anil\Documents\GitHub\internship-project\InternshipProject\Client\_Imports.razor"
+using DevExpress.Blazor.AnchorUtils;
+
+#line default
+#line hidden
+#nullable disable
     public partial class SurveyPrompt : Microsoft.AspNetCore.Components.ComponentBase
     {
         #pragma warning disable 1998

@@ -9,6 +9,26 @@
       "url": "_content\/Blazored.Modal\/blazored.modal.js"
     },
     {
+      "hash": "sha256-4MjdqXM1XNP7BC36qmswzlPLMcxtznZuSop99hFzmOs=",
+      "url": "anchor-utils.js"
+    },
+    {
+      "hash": "sha256-AYDbq0k3ra+HEr9V7uwEDlA3V\/+sum70dUEZuThrMFw=",
+      "url": "AnchorLink.razor"
+    },
+    {
+      "hash": "sha256-Z61bW\/ISvpD8+jsmRiQcUDJ7Q17+aY0Srtvsr1poefg=",
+      "url": "AnchorUtilsComponent.cs"
+    },
+    {
+      "hash": "sha256-ixBg8ZN2jFW8SN7ei6jam+bJP45tyulG428aiVa3Jps=",
+      "url": "assets\/favicon.ico"
+    },
+    {
+      "hash": "sha256-Qlifow2fsPBZJsSxWqaXqLYrch1R24\/y0CJxOVNr98A=",
+      "url": "assets\/img\/apartment.jpg"
+    },
+    {
       "hash": "sha256-BHNhq10T\/9aejlrFEhS\/NYeYS3Djwv\/pqg2xUjQCx\/s=",
       "url": "css\/app.css"
     },
@@ -57,6 +77,10 @@
       "url": "css\/open-iconic\/README.md"
     },
     {
+      "hash": "sha256-IzfoKvh9DsXM4TB2CYuU1BbsNc5BrOS6DlOPCjFrTKs=",
+      "url": "css\/styles.css"
+    },
+    {
       "hash": "sha256-qU+KhVPK6oQw3UyjzAHU4xjRmCj3TLZUU\/+39dni9E0=",
       "url": "favicon.ico"
     },
@@ -65,15 +89,19 @@
       "url": "icon-512.png"
     },
     {
-      "hash": "sha256-uxfkrlS5VkYPcSpnQHY5SweteclkqTm116rZNJWF2M4=",
+      "hash": "sha256-4\/Uzk18azI5PMJVlOY3O1W9+XHFsLcp3JgsHuYuNol4=",
       "url": "index.html"
+    },
+    {
+      "hash": "sha256-rcYyf8NIVu4Xx3OldZ1+Vk6METSA35TUiRIa0QYDIpI=",
+      "url": "js\/scripts.js"
     },
     {
       "hash": "sha256-E7CT4mXYskldD8vqdFdyrsAL1wryE8LwXbea1aKQOkY=",
       "url": "manifest.json"
     },
     {
-      "hash": "sha256-OtN6hi4nWqtwT6XlYmgGY1uCWV5XX99P5\/9MYPfsEZg=",
+      "hash": "sha256-iHAkER8BYstJ+GDdd0e+mGPALLwtRt1+qa+mQDmXBkM=",
       "url": "_framework\/_bin\/InternshipProject.Client.dll"
     },
     {
@@ -297,7 +325,7 @@
       "url": "_framework\/_bin\/Microsoft.JSInterop.WebAssembly.dll"
     },
     {
-      "hash": "sha256-Q\/EdWnOGYOPIZZ\/Aee4izScmOaMApxFvhRW36VpD0\/I=",
+      "hash": "sha256-9U1O5et6xzDlBs12IKaBRZ+drAmJbf3\/zrhgqxg97hM=",
       "url": "_framework\/_bin\/InternshipProject.Client.pdb"
     },
     {
@@ -321,9 +349,9 @@
       "url": "_framework\/blazor.webassembly.js"
     },
     {
-      "hash": "sha256-YvgZzDdHsIqv6qjIs17ZrTYKUg2ah4XQseA7W+kduSQ=",
+      "hash": "sha256-AYJwMxPZTU0whjmKOvNOAX3nWgAj858LOW\/FI9jbzXQ=",
       "url": "_framework\/blazor.boot.json"
     }
   ],
-  "version": "ALuAg8io"
+  "version": "aMp00GvO"
 };
