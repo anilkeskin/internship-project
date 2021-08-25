@@ -7,3 +7,13 @@ C:\Users\Anil\Documents\GitHub\InternshipProject\InternshipProject\Shared\obj\De
 C:\Users\Anil\Documents\GitHub\InternshipProject\InternshipProject\Shared\obj\Debug\netstandard2.1\InternshipProject.Shared.csproj.CoreCompileInputs.cache
 C:\Users\Anil\Documents\GitHub\InternshipProject\InternshipProject\Shared\obj\Debug\netstandard2.1\InternshipProject.Shared.dll
 C:\Users\Anil\Documents\GitHub\InternshipProject\InternshipProject\Shared\obj\Debug\netstandard2.1\InternshipProject.Shared.pdb
+C:\Users\Anil\Documents\GitHub\internship-project\InternshipProject\Shared\bin\Debug\netstandard2.1\InternshipProject.Shared.deps.json
+C:\Users\Anil\Documents\GitHub\internship-project\InternshipProject\Shared\bin\Debug\netstandard2.1\InternshipProject.Shared.dll
+C:\Users\Anil\Documents\GitHub\internship-project\InternshipProject\Shared\bin\Debug\netstandard2.1\InternshipProject.Shared.pdb
+C:\Users\Anil\Documents\GitHub\internship-project\InternshipProject\Shared\obj\Debug\netstandard2.1\InternshipProject.Shared.csproj.AssemblyReference.cache
+C:\Users\Anil\Documents\GitHub\internship-project\InternshipProject\Shared\obj\Debug\netstandard2.1\InternshipProject.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anil\Documents\GitHub\internship-project\InternshipProject\Shared\obj\Debug\netstandard2.1\InternshipProject.Shared.AssemblyInfoInputs.cache
+C:\Users\Anil\Documents\GitHub\internship-project\InternshipProject\Shared\obj\Debug\netstandard2.1\InternshipProject.Shared.AssemblyInfo.cs
+C:\Users\Anil\Documents\GitHub\internship-project\InternshipProject\Shared\obj\Debug\netstandard2.1\InternshipProject.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Anil\Documents\GitHub\internship-project\InternshipProject\Shared\obj\Debug\netstandard2.1\InternshipProject.Shared.dll
+C:\Users\Anil\Documents\GitHub\internship-project\InternshipProject\Shared\obj\Debug\netstandard2.1\InternshipProject.Shared.pdb

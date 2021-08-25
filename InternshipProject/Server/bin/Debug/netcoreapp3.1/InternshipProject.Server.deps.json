@@ -32,6 +32,7 @@
       "InternshipProject.Server/1.0.0": {
         "dependencies": {
           "InternshipProject.Client": "1.0.0",
+          "InternshipProject.Server.Data": "1.0.0",
           "InternshipProject.Shared": "1.0.0",
           "Microsoft.AspNetCore.Components.WebAssembly.Server": "3.2.1",
           "Microsoft.AspNetCore.Antiforgery": "3.1.0.0",
@@ -682,6 +683,14 @@
         },
         "compile": {
           "InternshipProject.Client.dll": {}
+        }
+      },
+      "InternshipProject.Server.Data/1.0.0": {
+        "runtime": {
+          "InternshipProject.Server.Data.dll": {}
+        },
+        "compile": {
+          "InternshipProject.Server.Data.dll": {}
         }
       },
       "InternshipProject.Shared/1.0.0": {
@@ -2463,6 +2472,11 @@
       "hashPath": "system.text.json.4.7.1.nupkg.sha512"
     },
     "InternshipProject.Client/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "InternshipProject.Server.Data/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

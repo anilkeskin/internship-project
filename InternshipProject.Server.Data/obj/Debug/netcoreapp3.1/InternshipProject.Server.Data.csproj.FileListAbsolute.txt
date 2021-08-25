@@ -1,0 +1,10 @@
+C:\Users\Anil\Documents\GitHub\internship-project\InternshipProject.Server.Data\bin\Debug\netcoreapp3.1\InternshipProject.Server.Data.deps.json
+C:\Users\Anil\Documents\GitHub\internship-project\InternshipProject.Server.Data\bin\Debug\netcoreapp3.1\InternshipProject.Server.Data.dll
+C:\Users\Anil\Documents\GitHub\internship-project\InternshipProject.Server.Data\bin\Debug\netcoreapp3.1\InternshipProject.Server.Data.pdb
+C:\Users\Anil\Documents\GitHub\internship-project\InternshipProject.Server.Data\obj\Debug\netcoreapp3.1\InternshipProject.Server.Data.csproj.AssemblyReference.cache
+C:\Users\Anil\Documents\GitHub\internship-project\InternshipProject.Server.Data\obj\Debug\netcoreapp3.1\InternshipProject.Server.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anil\Documents\GitHub\internship-project\InternshipProject.Server.Data\obj\Debug\netcoreapp3.1\InternshipProject.Server.Data.AssemblyInfoInputs.cache
+C:\Users\Anil\Documents\GitHub\internship-project\InternshipProject.Server.Data\obj\Debug\netcoreapp3.1\InternshipProject.Server.Data.AssemblyInfo.cs
+C:\Users\Anil\Documents\GitHub\internship-project\InternshipProject.Server.Data\obj\Debug\netcoreapp3.1\InternshipProject.Server.Data.csproj.CoreCompileInputs.cache
+C:\Users\Anil\Documents\GitHub\internship-project\InternshipProject.Server.Data\obj\Debug\netcoreapp3.1\InternshipProject.Server.Data.dll
+C:\Users\Anil\Documents\GitHub\internship-project\InternshipProject.Server.Data\obj\Debug\netcoreapp3.1\InternshipProject.Server.Data.pdb

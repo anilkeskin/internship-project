@@ -101,7 +101,7 @@
       "url": "manifest.json"
     },
     {
-      "hash": "sha256-iHAkER8BYstJ+GDdd0e+mGPALLwtRt1+qa+mQDmXBkM=",
+      "hash": "sha256-NQqrbGNtDs3EDeyqVxZdQNLImcH4wR1Y4THW2kXsjPk=",
       "url": "_framework\/_bin\/InternshipProject.Client.dll"
     },
     {
@@ -269,7 +269,7 @@
       "url": "_framework\/_bin\/Microsoft.AspNetCore.Components.dll"
     },
     {
-      "hash": "sha256-p5JJrMo6JdTAsUUmGNDJV9cxe\/S05T9ya2C8+Zr+NmU=",
+      "hash": "sha256-+Pmb9Qwhm5qJLKqeWUBdkKQFCEPakHv6KDrYm2xrByQ=",
       "url": "_framework\/_bin\/InternshipProject.Shared.dll"
     },
     {
@@ -325,11 +325,11 @@
       "url": "_framework\/_bin\/Microsoft.JSInterop.WebAssembly.dll"
     },
     {
-      "hash": "sha256-9U1O5et6xzDlBs12IKaBRZ+drAmJbf3\/zrhgqxg97hM=",
+      "hash": "sha256-L1ZZ8qplt7F\/n5GwR4YBlyHxVrBd4kOJ\/Fs2Lp5jDlI=",
       "url": "_framework\/_bin\/InternshipProject.Client.pdb"
     },
     {
-      "hash": "sha256-NKMJhdf+y2K1eAFiMvl+kYD1za8FT\/tvTaULMp9FwFM=",
+      "hash": "sha256-ZiPn6ubuysKZXzfJSxk9Ql4b5k4IeGM2jInVKQuTWOM=",
       "url": "_framework\/_bin\/InternshipProject.Shared.pdb"
     },
     {
@@ -349,9 +349,9 @@
       "url": "_framework\/blazor.webassembly.js"
     },
     {
-      "hash": "sha256-AYJwMxPZTU0whjmKOvNOAX3nWgAj858LOW\/FI9jbzXQ=",
+      "hash": "sha256-Xus4mFXfzSxhWf\/Yi9cx3OsoQc8gl+sBB+FHmxWZ0L8=",
       "url": "_framework\/blazor.boot.json"
     }
   ],
-  "version": "aMp00GvO"
+  "version": "rQ9BYZ9v"
 };

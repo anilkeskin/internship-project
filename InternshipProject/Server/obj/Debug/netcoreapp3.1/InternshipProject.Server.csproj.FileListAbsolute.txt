@@ -432,3 +432,5 @@ C:\Users\Anil\Documents\GitHub\internship-project\InternshipProject\Server\obj\D
 C:\Users\Anil\Documents\GitHub\internship-project\InternshipProject\Server\obj\Debug\netcoreapp3.1\InternshipProject.Server.dll
 C:\Users\Anil\Documents\GitHub\internship-project\InternshipProject\Server\obj\Debug\netcoreapp3.1\InternshipProject.Server.pdb
 C:\Users\Anil\Documents\GitHub\internship-project\InternshipProject\Server\obj\Debug\netcoreapp3.1\InternshipProject.Server.genruntimeconfig.cache
+C:\Users\Anil\Documents\GitHub\internship-project\InternshipProject\Server\bin\Debug\netcoreapp3.1\InternshipProject.Server.Data.dll
+C:\Users\Anil\Documents\GitHub\internship-project\InternshipProject\Server\bin\Debug\netcoreapp3.1\InternshipProject.Server.Data.pdb
