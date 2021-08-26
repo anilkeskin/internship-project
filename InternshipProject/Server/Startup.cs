@@ -1,8 +1,10 @@
 using Blazored.Modal;
+using InternshipProject.Server.Data.Context;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
 using Microsoft.AspNetCore.ResponseCompression;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
@@ -25,12 +27,17 @@ namespace InternshipProject.Server
         {
 
             services.AddControllersWithViews();
+            services.AddDbContext<InternshipProjectDbContext>
+           (o => o.UseSqlServer(Configuration.
+            GetConnectionString("MyDatabase")));
+
+            services.AddControllersWithViews();
             services.AddRazorPages();
             services.AddBlazoredModal();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
-        public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
+        public void Configure(IApplicationBuilder app, IWebHostEnvironment env, InternshipProjectDbContext db)
         {
             if (env.IsDevelopment())
             {
@@ -43,7 +50,7 @@ namespace InternshipProject.Server
                 // The default HSTS value is 30 days. You may want to change this for production scenarios, see https://aka.ms/aspnetcore-hsts.
                 app.UseHsts();
             }
-
+            db.Database.EnsureCreated();
             app.UseHttpsRedirection();
             app.UseBlazorFrameworkFiles();
             app.UseStaticFiles();

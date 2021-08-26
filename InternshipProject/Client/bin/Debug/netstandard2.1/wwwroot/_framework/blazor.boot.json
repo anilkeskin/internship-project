@@ -6,7 +6,7 @@
   "linkerEnabled": false,
   "resources": {
     "assembly": {
-      "InternshipProject.Client.dll": "sha256-NQqrbGNtDs3EDeyqVxZdQNLImcH4wR1Y4THW2kXsjPk=",
+      "InternshipProject.Client.dll": "sha256-\/h3F9GZvWKcBH+AjNXClDigx5UeU3bAjxjTyYrnoi5I=",
       "System.Net.Http.Json.dll": "sha256-99dseBOagY3mzu5Y8Eqm8gRI+o8QbbCp7R2Ew9bQ+5E=",
       "System.Buffers.dll": "sha256-ZxXy75PYbzJxNfAc\/SAP1nUYm4gt1jSaOpFnBb9m85M=",
       "mscorlib.dll": "sha256-BaZPMj95+YNe3G4ckTGD6szZFwZeA2MOHn91zTGKDeU=",
@@ -64,7 +64,7 @@
       "Microsoft.JSInterop.WebAssembly.dll": "sha256-czNf3btAeBW\/vvID5LAfgcsNZ+GM3ssVuPaMflcg0rs="
     },
     "pdb": {
-      "InternshipProject.Client.pdb": "sha256-L1ZZ8qplt7F\/n5GwR4YBlyHxVrBd4kOJ\/Fs2Lp5jDlI=",
+      "InternshipProject.Client.pdb": "sha256-OQPLSM+5f6c1f0DVgNrNyPzwJOQGwwWtehfkC6lVi0E=",
       "InternshipProject.Shared.pdb": "sha256-ZiPn6ubuysKZXzfJSxk9Ql4b5k4IeGM2jInVKQuTWOM="
     },
     "runtime": {

@@ -8,3 +8,6 @@ C:\Users\Anil\Documents\GitHub\internship-project\InternshipProject.Server.Data\
 C:\Users\Anil\Documents\GitHub\internship-project\InternshipProject.Server.Data\obj\Debug\netcoreapp3.1\InternshipProject.Server.Data.csproj.CoreCompileInputs.cache
 C:\Users\Anil\Documents\GitHub\internship-project\InternshipProject.Server.Data\obj\Debug\netcoreapp3.1\InternshipProject.Server.Data.dll
 C:\Users\Anil\Documents\GitHub\internship-project\InternshipProject.Server.Data\obj\Debug\netcoreapp3.1\InternshipProject.Server.Data.pdb
+C:\Users\Anil\Documents\GitHub\internship-project\InternshipProject.Server.Data\bin\Debug\netcoreapp3.1\InternshipProject.Server.Data.runtimeconfig.json
+C:\Users\Anil\Documents\GitHub\internship-project\InternshipProject.Server.Data\bin\Debug\netcoreapp3.1\InternshipProject.Server.Data.runtimeconfig.dev.json
+C:\Users\Anil\Documents\GitHub\internship-project\InternshipProject.Server.Data\obj\Debug\netcoreapp3.1\InternshipProject.Server.Data.genruntimeconfig.cache
