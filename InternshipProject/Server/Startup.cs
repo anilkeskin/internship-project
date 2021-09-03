@@ -1,5 +1,6 @@
 using Blazored.Modal;
 using InternshipProject.Server.Data.Context;
+using InternshipProject.Server.Services.Extensions;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
@@ -34,6 +35,7 @@ namespace InternshipProject.Server
             services.AddControllersWithViews();
             services.AddRazorPages();
             services.AddBlazoredModal();
+            services.ConfigureMapping();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
