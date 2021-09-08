@@ -14,6 +14,7 @@ namespace InternshipProject.Server.Services.Services
 {
     public class UserService : IUserService
     {
+        
         private readonly IMapper mapper;
         private readonly InternshipProjectDbContext context;
         private readonly IConfiguration configuration;
@@ -24,6 +25,7 @@ namespace InternshipProject.Server.Services.Services
             context = Context;
             configuration = Configuration;
         }
+        
         public async Task<UserDTO> CreateUser(UserDTO User)
         {
             var dbUser = await context.Users.Where(i => i.Id == User.Id).FirstOrDefaultAsync();
@@ -82,5 +84,7 @@ namespace InternshipProject.Server.Services.Services
 
             return mapper.Map<UserDTO>(dbUser);
         }
+        
+        
     }
 }

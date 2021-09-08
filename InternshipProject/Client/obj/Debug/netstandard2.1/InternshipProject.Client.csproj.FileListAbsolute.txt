@@ -828,10 +828,10 @@ C:\Users\Anil\Documents\GitHub\internship-project\InternshipProject\Client\obj\D
 C:\Users\Anil\Documents\GitHub\internship-project\InternshipProject\Client\obj\Debug\netstandard2.1\Razor\Shared\EmptyLayout.razor.g.cs
 C:\Users\Anil\Documents\GitHub\internship-project\InternshipProject\Client\obj\Debug\netstandard2.1\RazorDeclaration\wwwroot\AnchorLink.razor.g.cs
 C:\Users\Anil\Documents\GitHub\internship-project\InternshipProject\Client\obj\Debug\netstandard2.1\Razor\wwwroot\AnchorLink.razor.g.cs
-C:\Users\Anil\Documents\GitHub\internship-project\InternshipProject\Client\obj\Debug\netstandard2.1\integrity\_Pmb9Qwhm5qJLKqeWUBdkKQFCEPakHv6KDrYm2xrByQ=.hash
-C:\Users\Anil\Documents\GitHub\internship-project\InternshipProject\Client\obj\Debug\netstandard2.1\integrity\ZiPn6ubuysKZXzfJSxk9Ql4b5k4IeGM2jInVKQuTWOM=.hash
-C:\Users\Anil\Documents\GitHub\internship-project\InternshipProject\Client\obj\Debug\netstandard2.1\integrity\V_RXcvUPfg0EUJpwXRdW8vL5_tey4aaCAZXGInDDroI=.hash
-C:\Users\Anil\Documents\GitHub\internship-project\InternshipProject\Client\obj\Debug\netstandard2.1\integrity\-h3F9GZvWKcBH_AjNXClDigx5UeU3bAjxjTyYrnoi5I=.hash
-C:\Users\Anil\Documents\GitHub\internship-project\InternshipProject\Client\obj\Debug\netstandard2.1\integrity\OQPLSM_5f6c1f0DVgNrNyPzwJOQGwwWtehfkC6lVi0E=.hash
-C:\Users\Anil\Documents\GitHub\internship-project\InternshipProject\Client\obj\Debug\netstandard2.1\integrity\OCjFou2vNsYUmOOZVZpg1VCpe_TaRSkH2O1tPt1efr8=.hash
-C:\Users\Anil\Documents\GitHub\internship-project\InternshipProject\Client\obj\Debug\netstandard2.1\integrity\tA3Jx2qZpWTMP8NzFaVdIlLxWCn-MEyHssquXQToa3Y=.hash
+C:\Users\Anil\Documents\GitHub\internship-project\InternshipProject\Client\obj\Debug\netstandard2.1\integrity\9cKZX09BhNbl3WKAXPrDOwd7li1eHyIQNvkzxuuFlWs=.hash
+C:\Users\Anil\Documents\GitHub\internship-project\InternshipProject\Client\obj\Debug\netstandard2.1\integrity\VcJnXaei3hiyb-xEA8cOsT7GiYh6gB30GAig4idCMWs=.hash
+C:\Users\Anil\Documents\GitHub\internship-project\InternshipProject\Client\obj\Debug\netstandard2.1\integrity\EGLHi-JmeHz_9477cjzQmCJFtlTO3TB6fvUrdJGXbrA=.hash
+C:\Users\Anil\Documents\GitHub\internship-project\InternshipProject\Client\obj\Debug\netstandard2.1\integrity\C3ROcqdB-2BwftiZ0NxVdv7sKmvwEfmKOPpSTC318Hk=.hash
+C:\Users\Anil\Documents\GitHub\internship-project\InternshipProject\Client\obj\Debug\netstandard2.1\integrity\WAf6n5HbxeQx9VvyGM9U-FqKphy7zOa6sjlvYPGXhAA=.hash
+C:\Users\Anil\Documents\GitHub\internship-project\InternshipProject\Client\obj\Debug\netstandard2.1\integrity\3-5UNC5PouUl_x5TkugoWIrUj8Ug83e-mGKdC0YdPdE=.hash
+C:\Users\Anil\Documents\GitHub\internship-project\InternshipProject\Client\obj\Debug\netstandard2.1\integrity\CyIE5ep5d6Km7C0pIiIlTBhLQKxoXg_qDqEgVmk0I1o=.hash

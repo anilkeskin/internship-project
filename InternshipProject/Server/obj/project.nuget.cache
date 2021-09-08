@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "GoTvMqyG1snDpP90KT1bYAF7JB8k7rImKnXz5FDfAYVxscU9K5yVaG+SBuH8xJfqN/0w2f0DD1cU/eswqjx4Tw==",
+  "dgSpecHash": "9BZVvHn3uV4KSls8HyMoiIDCx8Gz3u3Px8CGY5w+XflHgPV1ZHRyVzZeorzWr3sYGE0KjrDwhmU1PAy3x1IKSQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\Anil\\Documents\\GitHub\\internship-project\\InternshipProject\\Server\\InternshipProject.Server.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Anil\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
+    "C:\\Users\\Anil\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.1\\automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",
     "C:\\Users\\Anil\\.nuget\\packages\\blazored.modal\\6.0.1\\blazored.modal.6.0.1.nupkg.sha512",
     "C:\\Users\\Anil\\.nuget\\packages\\microsoft.aspnetcore.authorization\\3.1.6\\microsoft.aspnetcore.authorization.3.1.6.nupkg.sha512",
     "C:\\Users\\Anil\\.nuget\\packages\\microsoft.aspnetcore.components\\3.1.6\\microsoft.aspnetcore.components.3.1.6.nupkg.sha512",

@@ -28,9 +28,11 @@ namespace InternshipProject.Server.Services.Extensions
         {
             AllowNullDestinationValues = true;
             AllowNullCollections = true;
-
-            CreateMap<Announcements, AnnouncementDTO>()
+            /*
+             * CreateMap<Announcements, AnnouncementDTO>()
                 .ReverseMap();
+             */
+            CreateMap<Announcements, AnnouncementDTO>();
             CreateMap<User, UserDTO>();
             CreateMap<Debt, DebtDTO>();
             CreateMap<Expenses, ExpensesDTO>();

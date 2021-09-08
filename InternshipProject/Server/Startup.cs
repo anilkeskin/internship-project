@@ -1,6 +1,8 @@
 using Blazored.Modal;
 using InternshipProject.Server.Data.Context;
 using InternshipProject.Server.Services.Extensions;
+using InternshipProject.Server.Services.Infrastruce;
+using InternshipProject.Server.Services.Services;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
@@ -31,11 +33,20 @@ namespace InternshipProject.Server
             services.AddDbContext<InternshipProjectDbContext>
            (o => o.UseSqlServer(Configuration.
             GetConnectionString("MyDatabase")));
-
+            
             services.AddControllersWithViews();
             services.AddRazorPages();
             services.AddBlazoredModal();
             services.ConfigureMapping();
+            services.AddHttpClient();
+            services.AddScoped<IUserService, UserService>();
+            services.AddScoped<IFlatService, FlatService>();
+            services.AddScoped<IDebtService, DebtService>();
+            services.AddScoped<IAnnouncementService, AnnouncementService>();
+            services.AddScoped<IExpenseService, ExpenseService>();
+            
+            //services.AddDbContext<InternshipProjectDbContext>();
+            
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

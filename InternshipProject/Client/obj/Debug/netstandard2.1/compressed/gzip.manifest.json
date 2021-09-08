@@ -1,7 +1,7 @@
 {
   "FilesToCompress": [
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\-h3F9GZvWKcBH_AjNXClDigx5UeU3bAjxjTyYrnoi5I=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\EGLHi-JmeHz_9477cjzQmCJFtlTO3TB6fvUrdJGXbrA=.hash",
       "Source": "C:\\Users\\Anil\\Documents\\GitHub\\internship-project\\InternshipProject\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\InternshipProject.Client.dll",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/InternshipProject.Client.dll.gz"
     },
@@ -211,7 +211,7 @@
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.AspNetCore.Components.dll.gz"
     },
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\_Pmb9Qwhm5qJLKqeWUBdkKQFCEPakHv6KDrYm2xrByQ=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\C3ROcqdB-2BwftiZ0NxVdv7sKmvwEfmKOPpSTC318Hk=.hash",
       "Source": "C:\\Users\\Anil\\Documents\\GitHub\\internship-project\\InternshipProject\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\InternshipProject.Shared.dll",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/InternshipProject.Shared.dll.gz"
     },
@@ -281,12 +281,12 @@
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.JSInterop.WebAssembly.dll.gz"
     },
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\OQPLSM_5f6c1f0DVgNrNyPzwJOQGwwWtehfkC6lVi0E=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\WAf6n5HbxeQx9VvyGM9U-FqKphy7zOa6sjlvYPGXhAA=.hash",
       "Source": "C:\\Users\\Anil\\Documents\\GitHub\\internship-project\\InternshipProject\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\InternshipProject.Client.pdb",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/InternshipProject.Client.pdb.gz"
     },
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\ZiPn6ubuysKZXzfJSxk9Ql4b5k4IeGM2jInVKQuTWOM=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\3-5UNC5PouUl_x5TkugoWIrUj8Ug83e-mGKdC0YdPdE=.hash",
       "Source": "C:\\Users\\Anil\\Documents\\GitHub\\internship-project\\InternshipProject\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\InternshipProject.Shared.pdb",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/InternshipProject.Shared.pdb.gz"
     },
@@ -311,12 +311,12 @@
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/blazor.webassembly.js.gz"
     },
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\OCjFou2vNsYUmOOZVZpg1VCpe_TaRSkH2O1tPt1efr8=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\CyIE5ep5d6Km7C0pIiIlTBhLQKxoXg_qDqEgVmk0I1o=.hash",
       "Source": "C:\\Users\\Anil\\Documents\\GitHub\\internship-project\\InternshipProject\\Client\\obj\\Debug\\netstandard2.1\\blazor\\blazor.boot.json",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/blazor.boot.json.gz"
     },
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\tA3Jx2qZpWTMP8NzFaVdIlLxWCn-MEyHssquXQToa3Y=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\9cKZX09BhNbl3WKAXPrDOwd7li1eHyIQNvkzxuuFlWs=.hash",
       "Source": "C:\\Users\\Anil\\Documents\\GitHub\\internship-project\\InternshipProject\\Client\\obj\\Debug\\netstandard2.1\\blazor\\service-worker-assets.js",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\service-worker-assets.js.gz"
     }

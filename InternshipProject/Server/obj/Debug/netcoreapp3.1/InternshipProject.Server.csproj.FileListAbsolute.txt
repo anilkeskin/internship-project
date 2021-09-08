@@ -466,3 +466,5 @@ C:\Users\Anil\Documents\GitHub\internship-project\InternshipProject\Server\bin\D
 C:\Users\Anil\Documents\GitHub\internship-project\InternshipProject\Server\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
 C:\Users\Anil\Documents\GitHub\internship-project\InternshipProject\Server\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
 C:\Users\Anil\Documents\GitHub\internship-project\InternshipProject\Server\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Anil\Documents\GitHub\internship-project\InternshipProject\Server\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\Anil\Documents\GitHub\internship-project\InternshipProject\Server\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
