@@ -6,7 +6,7 @@
   "linkerEnabled": false,
   "resources": {
     "assembly": {
-      "InternshipProject.Client.dll": "sha256-EGLHi\/JmeHz+9477cjzQmCJFtlTO3TB6fvUrdJGXbrA=",
+      "InternshipProject.Client.dll": "sha256-tLb1a9OtdFXGfbyKvzCdYdPHUHhRxt0tt971\/m7JO2c=",
       "System.Net.Http.Json.dll": "sha256-99dseBOagY3mzu5Y8Eqm8gRI+o8QbbCp7R2Ew9bQ+5E=",
       "System.Buffers.dll": "sha256-ZxXy75PYbzJxNfAc\/SAP1nUYm4gt1jSaOpFnBb9m85M=",
       "mscorlib.dll": "sha256-BaZPMj95+YNe3G4ckTGD6szZFwZeA2MOHn91zTGKDeU=",
@@ -48,7 +48,7 @@
       "System.ComponentModel.Annotations.dll": "sha256-tmnkCmP9OzLUkpQ3LP7PRosi7gt5pyfEZCM6aqAokFI=",
       "System.ComponentModel.DataAnnotations.dll": "sha256-LIfCYwg+PHltTK4z3EnbSkA7m2cn8JS4jHVthdKrDF8=",
       "Microsoft.AspNetCore.Components.dll": "sha256-PEg9ghiKSWBTX0jq8pFDvv2Yvw92Y8W0ELtWrSE4fhA=",
-      "InternshipProject.Shared.dll": "sha256-C3ROcqdB\/2BwftiZ0NxVdv7sKmvwEfmKOPpSTC318Hk=",
+      "InternshipProject.Shared.dll": "sha256-X6gnh3t9ZW5pINW3wEQxCDhEKloK\/Ef60cQciFNaEGM=",
       "Blazored.Modal.dll": "sha256-yoXX75RsqCVb+q2v0ZS7Hd6lW+OeSPHHPyJBk\/AyYMg=",
       "Microsoft.JSInterop.dll": "sha256-LqwA2Rpm96Ualk0IhLZar87kfRCyKHzHTeTt2jYhm7M=",
       "Microsoft.AspNetCore.Components.WebAssembly.dll": "sha256-FJ+rEgcx6ljTxwbRXZSUGfrDKpVvOxHCSfNxbnXNn3M=",
@@ -64,8 +64,8 @@
       "Microsoft.JSInterop.WebAssembly.dll": "sha256-czNf3btAeBW\/vvID5LAfgcsNZ+GM3ssVuPaMflcg0rs="
     },
     "pdb": {
-      "InternshipProject.Client.pdb": "sha256-WAf6n5HbxeQx9VvyGM9U\/FqKphy7zOa6sjlvYPGXhAA=",
-      "InternshipProject.Shared.pdb": "sha256-3\/5UNC5PouUl+x5TkugoWIrUj8Ug83e\/mGKdC0YdPdE="
+      "InternshipProject.Client.pdb": "sha256-YbcH8sxlUUXCyvsSkXeVnCapGwFeQRvq0HcIA7oQfVI=",
+      "InternshipProject.Shared.pdb": "sha256-NNzjqIEKUe0yEWY7LkFs80VGUs5PLo2rS\/xJgCvYXSk="
     },
     "runtime": {
       "dotnet.3.2.0.js": "sha256-mPoqx7XczFHBWk3gRNn0hc9ekG1OvkKY4XiKRY5Mj5U=",

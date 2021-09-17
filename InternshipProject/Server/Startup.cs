@@ -1,3 +1,4 @@
+using AutoMapper;
 using Blazored.Modal;
 using InternshipProject.Server.Data.Context;
 using InternshipProject.Server.Services.Extensions;
@@ -31,20 +32,24 @@ namespace InternshipProject.Server
 
             services.AddControllersWithViews();
             services.AddDbContext<InternshipProjectDbContext>
-           (o => o.UseSqlServer(Configuration.
-            GetConnectionString("MyDatabase")));
-            
+           (
+                options => options.UseSqlServer(Configuration.
+            GetConnectionString("MyDatabase"))
+                );
+            services.AddAutoMapper(typeof(MappingProfile));
             services.AddControllersWithViews();
             services.AddRazorPages();
             services.AddBlazoredModal();
             services.ConfigureMapping();
             services.AddHttpClient();
+            /*
+            services.AddScoped<IMapper, Mapper>();
             services.AddScoped<IUserService, UserService>();
             services.AddScoped<IFlatService, FlatService>();
             services.AddScoped<IDebtService, DebtService>();
             services.AddScoped<IAnnouncementService, AnnouncementService>();
             services.AddScoped<IExpenseService, ExpenseService>();
-            
+            */
             //services.AddDbContext<InternshipProjectDbContext>();
             
         }
